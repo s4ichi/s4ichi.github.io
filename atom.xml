@@ -4,7 +4,7 @@
   <subtitle><![CDATA[awesome]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://everysick.github.io/"/>
-  <updated>2015-05-01T07:06:11.000Z</updated>
+  <updated>2015-05-09T06:41:38.000Z</updated>
   <id>http://everysick.github.io/</id>
   
   <author>
@@ -19,12 +19,12 @@
     <link href="http://everysick.github.io/2015/05/01/hello-world/"/>
     <id>http://everysick.github.io/2015/05/01/hello-world/</id>
     <published>2015-05-01T04:57:10.000Z</published>
-    <updated>2015-05-01T07:06:11.000Z</updated>
-    <content type="html"><![CDATA[<p>Blogの移行を行います。<br>記事の移行は行わないので下記から見てください。</p>
+    <updated>2015-05-09T06:41:38.000Z</updated>
+    <content type="html"><![CDATA[<p>Blogの移行を行いました。<br>記事の移行はしません。</p>
 <p><a href="http://everysick.hatenablog.com/" target="_blank" rel="external">旧ブログ</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Blogの移行を行います。<br>記事の移行は行わないので下記から見てください。</p>
+    <![CDATA[<p>Blogの移行を行いました。<br>記事の移行はしません。</p>
 <p><a href="http://everysick.hatenablog.com/" target="_blank" rel="external">旧ブログ</a></p>
 ]]>
     </summary>
