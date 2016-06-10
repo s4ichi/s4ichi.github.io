@@ -7,17 +7,14 @@
 #icon {
     height: 95%;
     width: 95%;
-
 }
 
-.profile-contents dd {
-    margin-left: 20px;
+h1 {
+    text-align: center;
 }
 
-.contents {
-    margin-bottom: 20px;
-    margin-left: 5%;
-    margin-right: 5%;
+.container {
+    max-width: 768px;
 }
 
 .link {
