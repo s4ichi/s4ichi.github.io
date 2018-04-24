@@ -1,1 +1,7 @@
 vendor/
+.bundle/
+_site
+node_modules
+hot
+.jekyll-metadata
+yarn-error.log
