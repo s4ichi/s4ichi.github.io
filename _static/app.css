@@ -168,3 +168,7 @@ figcaption {
 .fb_iframe_widget.fb-post * {
   max-width: 100% !important;
 }
+
+.measure-wide {
+    max-width: 40em;
+}
