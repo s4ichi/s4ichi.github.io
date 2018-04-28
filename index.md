@@ -1,47 +1,70 @@
 # HOME
 
-## about me
+## About
 - Name: 齋地 崇大（Saichi Takamasa）
 - Birth: 1996/03/21
 - Handle: everysick
-- Email: s.wakeup31 (at) gmail.com
+- mail: s.wakeup31 (at) gmail.com
 
-## belongs
+## Belongs
 
 - [IALAB（インタラクティブアーキテクチャ研究室）](https://www.ialab.cs.tsukuba.ac.jp/)
 - [Tsukuba programming circle](http://conclave.cs.tsukuba.ac.jp/tpc/)
 - [筑波大学学園祭実行委員 技術管理部門 (OB)](http://www.sohosai.tsukuba.ac.jp/)
 - [Information Research Club (OB)](http://www.irc.hira-tech.net/)
 
-## interest
+## Histories
 
-- Syntactic analysis
-- Memory management
-- Type system
-- Formal language
+- 2018
+  - 筑波大学大学院 システム情報工学研究科 <br> コンピュータサイエンス専攻 博士前期課程 入学
+  - 筑波大学 情報学群 情報科学類 卒業 コンピュータサイエンス（学士）
+- 2017
+  - Cookpad 5day Service dev internship
+  - Started engineer part time job at Cookpad Inc
+  - Ended engineer part time job at Minnano Wedding Co., Ltd
+- 2016
+  - Started engineer part time job at Minnano Wedding Co., Ltd
+  - Ended engineer part time job at BearTail inc.
+- 2015
+  - ACM ICPC 2015 アジア地区予選つくば大会 Rank: 31st
+  - ACM ICPC 2015 国内予選 Rank: 33rd
+- 2014
+  - セキュリティ・キャンプ全国大会 2014 Web セキュリティコース参加
+  - ACM ICPC 2014 国内予選 Rank: 50th
+  - 筑波大学 情報学群 情報科学類 入学
+  - Started engineer part time job at BearTail inc.
+  - 宮城県工業高等学校 情報技術科 卒業
+  - BCN ITジュニア賞 2014 受賞
+- 2013
+  - 全情研主催 全国高校生プログラミングコンテスト 本選 優勝
+  - 立命館大学主催 ICT Challenge+R 2013 最終選考会 企業賞
+  - 第12回日本情報オリンピック 本選 Bランク
+- 2012
+  - 第12回日本情報オリンピック 予選 Aランク
+  - 全情研主催 全国高校生プログラミングコンテスト 本選 全国5位
+  - 会津大学主催 パソコン甲子園2012 プログラミング部門 全国8位 入賞
+  - 第11回日本情報オリンピック 本選 Bランク
+  - BCN ITジュニア賞 2012 受賞
+- 2011
+  - 第11回日本情報オリンピック 予選 Bランク
+  - 全情研主催 全国高校生プログラミングコンテスト 本選 優勝
 
-## history
+## Thesis
 
-- 2018/04 Admission to University of Tsukuba
-  Systems and information Engineering, Department of computer science
-- 2018/03 Bachelor of computer science. University Tsukuba, Tsukuba, Japan
-- 2017/09 Cookpad 5day Service dev internship
-- 2017/06 - Engineer part time job at Cookpad Inc
-- 2016/08 - 2017/05 Engineer part time job at Minnano Wedding Co., Ltd
-- 2015/11 ACM ICPC Asia Tsukuba Regional Contest 2015 Rank: 31st
-- 2015/06 ACM ICPC Japan Domestic Preliminary Contest 2015 Rank: 33rd
-- 2014/08 セキュリティ・キャンプ全国大会 2014 Web securiy course
-- 2014/06 ACM ICPC Japan Domestic Preliminary Contest 2014 Rank: 50th
-- 2014/04 Admission to University of Tsukuba
-- 2014/03 - 2016/05 Engineer part time job at BearTail inc.
-- 2014/03 Graduate from Miyagi Technical High School
-- 2013 I had participated JOI , PCK , and more.
+- 齋地崇大<br>
+  『手続き型動的型付け言語に対するリージョン推論の導入』<br>
+  平成29年度 筑波大学 情報学群 情報科学類 卒業研究論文
 
-## links
+## Poster, Talk
 
-- Github: [https://github.com/everysick]()
-- Twitter: [https://twitter.com/everysick]()
-- Techblog: [http://everysick.hatenablog.com/]()
-- Diary: [http://every.hatenadiary.com]()
-- Speaker deck: [https://speakerdeck.com/everysick]()
-- Facebook: [http://www.facebook.com/takamasa.saichi]()
+- 齋地崇大, 前田敦司<br>
+  『手続き型動的型付け言語に対するリージョン推論の導入』<br>
+  プログラミングおよびプログラミング言語ワークショップ（PPL2018, カテゴリ3 ポスター発表）
+
+## Links
+
+- GitHub: [https://github.com/everysick](https://github.com/everysick)
+- Twitter: [https://twitter.com/everysick](https://twitter.com/everysick)
+- Blog: [http://everysick.hatenablog.com/](http://everysick.hatenablog.com/)
+- Speakerdeck: [https://speakerdeck.com/everysick](https://speakerdeck.com/everysick)
+- Facebook: [https://www.facebook.com/takamasa.saichi](https://www.facebook.com/takamasa.saichi)

@@ -6,7 +6,7 @@
 html {
   font-size: 16px;
   line-height: 1.6;
-  font-family: Georgia, Cambria, "Times New Roman", Times, "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: Cambria, "Times New Roman", Times, "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 html[lang="ja"] {
@@ -170,5 +170,5 @@ figcaption {
 }
 
 .measure-wide {
-    max-width: 40em;
+    max-width: 50em;
 }
