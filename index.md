@@ -65,6 +65,6 @@
 
 - GitHub: [https://github.com/everysick](https://github.com/everysick)
 - Twitter: [https://twitter.com/everysick](https://twitter.com/everysick)
-- Blog: [http://everysick.hatenablog.com/](http://everysick.hatenablog.com/)
+- Blog: [https://everysick.hatenablog.com/](http://everysick.hatenablog.com/)
 - Speakerdeck: [https://speakerdeck.com/everysick](https://speakerdeck.com/everysick)
 - Facebook: [https://www.facebook.com/takamasa.saichi](https://www.facebook.com/takamasa.saichi)
