@@ -18,6 +18,7 @@
 - 2018
   - 筑波大学大学院 システム情報工学研究科 <br> コンピュータサイエンス専攻 博士前期課程 入学
   - 筑波大学 情報学群 情報科学類 卒業 コンピュータサイエンス（学士）
+  - Mercari summer internship 2018 at Microservices Platform Team
 - 2017
   - Cookpad 5day Service dev internship
   - Started engineer part time job at Cookpad Inc
