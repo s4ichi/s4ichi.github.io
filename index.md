@@ -3,7 +3,6 @@
 ## About
 - Name: 齋地 崇大（Saichi Takamasa）
 - Birth: 1996/03/21
-- Handle: everysick
 - mail: s.wakeup31 (at) gmail.com
 
 ## Belongs
@@ -16,9 +15,9 @@
 ## Histories
 
 - 2018
+  - Mercari summer internship 2018 at Microservices Platform Team
   - 筑波大学大学院 システム情報工学研究科 <br> コンピュータサイエンス専攻 博士前期課程 入学
   - 筑波大学 情報学群 情報科学類 卒業 コンピュータサイエンス（学士）
-  - Mercari summer internship 2018 at Microservices Platform Team
 - 2017
   - Cookpad 5day Service dev internship
   - Started engineer part time job at Cookpad Inc
@@ -67,8 +66,8 @@
 
 ## Links
 
-- GitHub: [https://github.com/everysick](https://github.com/everysick)
-- Twitter: [https://twitter.com/everysick](https://twitter.com/everysick)
-- Blog: [https://everysick.hatenablog.com/](http://everysick.hatenablog.com/)
-- Speakerdeck: [https://speakerdeck.com/everysick](https://speakerdeck.com/everysick)
+- GitHub: [https://github.com/s4ichi](https://github.com/s4ichi)
+- Twitter: [https://twitter.com/s4ichi](https://twitter.com/s4ichi)
+- Blog: [https://blog.s4ichi.com/](http://blog.s4ichi.com/)
+- Speakerdeck: [https://speakerdeck.com/s4ichi](https://speakerdeck.com/s4ichi)
 - Facebook: [https://www.facebook.com/takamasa.saichi](https://www.facebook.com/takamasa.saichi)

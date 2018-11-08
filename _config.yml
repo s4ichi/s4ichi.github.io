@@ -2,11 +2,11 @@
 # Customize Options: Must Change
 #
 # Title:
-title: everysick.github.io
+title: s4ichi.github.io
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://everysick.github.io"
+url: "https://s4ichi.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
@@ -14,9 +14,9 @@ baseurl: "/"
 
 # Twitter IDs
 twitter:
-  username: "everysick"
+  username: "s4ichi"
 author:
-  twitter: "everysick"
+  twitter: "s4ichi"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
