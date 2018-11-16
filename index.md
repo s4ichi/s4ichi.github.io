@@ -2,13 +2,15 @@
 
 ## About
 - Name: 齋地 崇大（Saichi Takamasa）
-- Birth: 1996/03/21
-- mail: s.wakeup31 (at) gmail.com
+- Birth: 1996 / 03 / 21
+- Email: s.wakeup31 (at) gmail.com
 
-## Belongs
+## Affiliations
 
+- [筑波大学 システム情報工学研究科 コンピュータサイエンス専攻](https://www.sie.tsukuba.ac.jp/)
 - [IALAB（インタラクティブアーキテクチャ研究室）](https://www.ialab.cs.tsukuba.ac.jp/)
-- [Tsukuba programming circle](http://conclave.cs.tsukuba.ac.jp/tpc/)
+- [Part time job at Cookpad inc.](https://info.cookpad.com/)
+- [Tsukuba programming circle (OB)](http://conclave.cs.tsukuba.ac.jp/tpc/)
 - [筑波大学学園祭実行委員 技術管理部門 (OB)](http://www.sohosai.tsukuba.ac.jp/)
 - [Information Research Club (OB)](http://www.irc.hira-tech.net/)
 
@@ -49,13 +51,13 @@
   - 第11回日本情報オリンピック 予選 Bランク
   - 全情研主催 全国高校生プログラミングコンテスト 本選 優勝
 
-## Thesis
+## Papers
 
 - 齋地崇大<br>
   『手続き型動的型付け言語に対するリージョン推論の導入』<br>
   平成29年度 筑波大学 情報学群 情報科学類 卒業研究論文
 
-## Poster, Talk
+## Posters, Talks
 
 - 齋地崇大, 前田敦司<br>
   『手続き型動的型付け言語に対するリージョン推論の導入』<br>
