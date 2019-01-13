@@ -93,7 +93,7 @@ h5 + h6,
 }
 
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.0rem;
   margin-top: 0.75em;
 }
 
@@ -150,7 +150,7 @@ figure {
 }
 
 figure img, p img {
-  margin: 0 auto;
+  /*margin: 0 auto;*/
   display: block;
 }
 
