@@ -23,7 +23,6 @@ s.wakeup31 [at] gmail.com
 - *Aug 2017:* Cookpad 5day Service dev internship
 - *Jun 2017 - Current:* Engineer part time job at Cookpad Inc
 - *Aug 2016 - Apr 2017:* Engineer part time job at Minnano Wedding Co., Ltd
-- *Aug 2016 - Apr 2017:* Engineer part time job at Minnano Wedding Co., Ltd
 - *Nov 2015:* ACM ICPC 2015 アジア地区予選つくば大会 Rank: 31st
 - *Jun 2015:* ACM ICPC 2015 国内予選 Rank: 33rd
 - *Aug 2014:* セキュリティ・キャンプ全国大会 2014 Web セキュリティコース参加
