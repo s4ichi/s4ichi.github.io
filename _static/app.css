@@ -13,10 +13,9 @@ html[lang="ja"] {
   line-height: 1.5;
 }
 
-/* breakpoint-not-small */
-@media screen and (min-width: 48em) {
+@media screen and (max-width:800px) {
   html {
-    font-size: 15px;
+    font-size: 13px;
   }
 }
 
