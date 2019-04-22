@@ -7,7 +7,6 @@ s.wakeup31 [at] gmail.com
 
 ## Affiliation
 
-- Email: s.wakeup31 (at) gmail.com
 - [筑波大学 システム情報工学研究科 コンピュータサイエンス専攻](https://www.sie.tsukuba.ac.jp/)
 - [IALAB（インタラクティブアーキテクチャ研究室）](https://www.ialab.cs.tsukuba.ac.jp/)
 - [Part time job at Cookpad inc.](https://info.cookpad.com/)
