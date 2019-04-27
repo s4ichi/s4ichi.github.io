@@ -1,20 +1,17 @@
-# Takamasa Saichi
-
 ![image]({{ site.url }}/assets/selfy_small.jpeg)
 
-齋地 崇大（Saichi Takamasa）<br>
+齋地 崇大 - Saichi Takamasa<br>
 s.wakeup31 [at] gmail.com
 
-## Affiliation
+## Affiliations
 
 - [筑波大学 システム情報工学研究科 コンピュータサイエンス専攻](https://www.sie.tsukuba.ac.jp/)
 - [IALAB（インタラクティブアーキテクチャ研究室）](https://www.ialab.cs.tsukuba.ac.jp/)
 - [Part time job at Cookpad inc.](https://info.cookpad.com/)
 - [Tsukuba Programming Circle (OB)](http://conclave.cs.tsukuba.ac.jp/tpc/)
 - [筑波大学学園祭実行委員 技術管理部門 (OB)](http://www.sohosai.tsukuba.ac.jp/)
-- [Information Research Club (OB)](http://www.irc.hira-tech.net/)
 
-## History
+## Histories
 
 - *Aug 2018:* Mercari summer internship 2018 at Microservices Platform Team
 - *Mar 2018:* 筑波大学 システム情報工学研究科 コンピュータサイエンス専攻 入学
@@ -29,7 +26,7 @@ s.wakeup31 [at] gmail.com
 - *Apr 2014:* 筑波大学 情報学群 情報科学類 入学
 - *Mar 2014 - Jul 2016:* Engineer part time job at BearTail inc.
 
-## Link
+## Links
 
 - GitHub: [https://github.com/s4ichi](https://github.com/s4ichi)
 - Blog: [https://blog.s4ichi.com/](http://blog.s4ichi.com/)
