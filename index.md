@@ -30,6 +30,6 @@ s.wakeup31 [at] gmail.com
 
 - GitHub: [https://github.com/s4ichi](https://github.com/s4ichi)
 - Blog: [https://blog.s4ichi.com/](http://blog.s4ichi.com/)
-- Speakerdeck: [https://speakerdeck.com/s4ichi](https://speakerdeck.com/s4ichi)
+- Talks: [https://speakerdeck.com/s4ichi](https://speakerdeck.com/s4ichi)
 - Twitter: [https://twitter.com/s4ichi](https://twitter.com/s4ichi)
 - Facebook: [https://www.facebook.com/takamasa.saichi](https://www.facebook.com/takamasa.saichi)
