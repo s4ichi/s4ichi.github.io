@@ -1,7 +1,7 @@
-![image]({{ site.url }}/assets/selfy_small.jpeg)
+## About Me
 
-齋地 崇大 - Saichi Takamasa<br>
-s.wakeup31 [at] gmail.com
+- 齋地 崇大 - Takamasa Saichi
+- s.wakeup31 [at] gmail.com
 
 ## Affiliations
 
