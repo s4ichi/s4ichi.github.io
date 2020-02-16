@@ -6,7 +6,7 @@
     "material-colors": "^1.2.5",
     "postcss-import": "^11.0.0",
     "tachyons": "^4.8.1",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "concurrently": "^3.5.0",
