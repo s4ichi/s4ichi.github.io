@@ -5,19 +5,20 @@
 
 ## Affiliations
 
-- [筑波大学 システム情報工学研究科 コンピュータサイエンス専攻](https://www.sie.tsukuba.ac.jp/)
-- [IALAB（インタラクティブアーキテクチャ研究室）](https://www.ialab.cs.tsukuba.ac.jp/)
-- [Part time job at Cookpad inc.](https://info.cookpad.com/)
+- [Software Engineer at Cookpad Inc.](https://info.cookpad.com/)
+- [IALAB インタラクティブアーキテクチャ研究室（OB）](https://www.ialab.cs.tsukuba.ac.jp/)
 - [Tsukuba Programming Circle (OB)](http://conclave.cs.tsukuba.ac.jp/tpc/)
 - [筑波大学学園祭実行委員 技術管理部門 (OB)](http://www.sohosai.tsukuba.ac.jp/)
 
 ## Histories
 
+- *Apr 2020 - Current* Cookpad Inc.
+- *Mar 2020:* 筑波大学 システム情報工学研究科 コンピュータサイエンス専攻 卒業 修士（工学）
 - *Aug 2018:* Mercari summer internship 2018 at Microservices Platform Team
 - *Mar 2018:* 筑波大学 システム情報工学研究科 コンピュータサイエンス専攻 入学
 - *Mar 2018:* 筑波大学 情報学群 情報科学類 卒業 コンピュータサイエンス（学士）
 - *Aug 2017:* Cookpad 5day Service dev internship
-- *Jun 2017 - Current:* Engineer part time job at Cookpad Inc
+- *Jun 2017 - Mar 2020:* Engineer part time job at Cookpad Inc
 - *Aug 2016 - Apr 2017:* Engineer part time job at Minnano Wedding Co., Ltd
 - *Nov 2015:* ACM ICPC 2015 アジア地区予選つくば大会 Rank: 31st
 - *Jun 2015:* ACM ICPC 2015 国内予選 Rank: 33rd
