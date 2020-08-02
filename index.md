@@ -1,7 +1,7 @@
 ## About Me
 
 - 齋地 崇大 - Takamasa Saichi
-- s.wakeup31 [at] gmail.com
+- s4ichi [at] hey.com
 
 ## Affiliations
 
